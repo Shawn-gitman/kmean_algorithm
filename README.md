@@ -1,5 +1,10 @@
 <Kmean_algorithm , 강태규 201614729>
 
+Kmean_algorithm 실행 방법은 다음과 같습니다. 
+
+1. ctrl+마우스 오른쪽 클릭 후, windows powershell를 실행시킵니다.
+2. 다음 명령어를 입력합니다 "python kmean_algorithm.py"
+
 제가 만든 kmean 알고리즘은 다음과 같은 순서를 따르고 있습니다.
 
 1. 텍스트파일로 5차원 벡터 데이터셋을 받는다
@@ -22,6 +27,11 @@
 
 
 <Kmean_algorithm by Taekyu Kang>
+
+Here is the way to execute a program.
+
+1. Click Ctrl+right button of mouse and execute windows powershell
+2. Type following command "python Kmean_algorithm.py"
 
 The source code that I make for kmean algorithm follows procedures below.
 
