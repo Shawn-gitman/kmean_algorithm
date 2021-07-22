@@ -1,4 +1,4 @@
-#<Kmean_algorithm , 강태규 201614729>, This description is written in Korean. Please check English translated interpretation below.
+# <Kmean_algorithm , 강태규 201614729>, This description is written in Korean. Please check English translated interpretation below.
 
 Kmean_algorithm 실행 방법은 다음과 같습니다. 
 
@@ -26,7 +26,7 @@ Kmean_algorithm 실행 방법은 다음과 같습니다.
 8. main : 모든 코드를 운용합니다. 
 
 
-#<Kmean_algorithm by Taekyu Kang>
+# <Kmean_algorithm by Taekyu Kang>
 
 Here is the way to execute a program.
 
