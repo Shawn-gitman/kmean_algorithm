@@ -1,4 +1,4 @@
-<Kmean_algorithm , 강태규 201614729>
+<Kmean_algorithm , 강태규 201614729>, This description is written in Korean. Please check English translated interpretation below.
 
 Kmean_algorithm 실행 방법은 다음과 같습니다. 
 
